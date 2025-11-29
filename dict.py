@@ -1,4 +1,4 @@
-dict = {"pão na chapa":7.00, "strawberry":"morango", "pineple": "abacaxi"}
+dict = {"pão na chapa":[7,8,9] , "strawberry":"morango", "pineple": "abacaxi"}
 
 print(dict["strawberry"]) #acessando item pela chave
 print(dict.values()) #valores das chaves

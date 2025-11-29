@@ -23,7 +23,7 @@ def desenha_tri(tamanho):
         turtle.forward(tamanho)
         turtle.right(120)
     time.sleep(3)
-    turtle.clear()
+    #turtle.clear()
        
 
 
